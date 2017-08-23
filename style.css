@@ -382,28 +382,3 @@ input[type=text] {
 input[type=text]:focus {
     width: 100%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-
-#F {
-  position: absolute;
-}
-
-#g {
-  float: right;
-  top: 0px;
-  width: 50%;
-  position: relative;
-}*/
